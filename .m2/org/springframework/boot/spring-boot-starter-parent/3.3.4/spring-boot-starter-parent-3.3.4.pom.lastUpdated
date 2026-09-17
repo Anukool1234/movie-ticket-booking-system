@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 16 23:01:40 IST 2026
+932c40e62b81be89559dddf2413b94a889e64102@default-jubilantarchiva-http\://archiva.dominosindia.in/repository/internal/.lastUpdated=1789579849055
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1789579849070
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1789579849067
+http\://0.0.0.0/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.3.4 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [jubilantarchiva-snapshots (http\://archiva.dominosindia.in/repository/snapshots, default, releases+snapshots)]
+http\://archiva.dominosindia.in/repository/internal/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:3.3.4 from/to jubilantarchiva (http\://archiva.dominosindia.in/repository/internal)\: archiva.dominosindia.in\: nodename nor servname provided, or not known
+https\://repo.maven.apache.org/maven2/.lastUpdated=1789579900434
